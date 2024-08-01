@@ -25,7 +25,8 @@ Servlet
 -라이프사이클: Servlet의 라이프사이클은 초기화(init), 서비스(service), 소멸(destroy) 단계로 구성됩니다.
 -요청 처리: Servlet은 doGet, doPost, doPut, doDelete 등의 메서드를 사용하여 HTTP 요청을 처리합니다.
 
-## part 4. 예시 [dynamic web]폴더 참고 HelloServlet.jsp
+## part 4. 
+예시 [dynamic web]폴더 참고 HelloServlet.jsp
 
 ## part 5. 참고 자료
 ✔Servlet 문서 
