@@ -1,4 +1,5 @@
 Servlet과 JSP 공부를 위한 저장소
+
 이 저장소는 Servlet과 JSP(JavaServer Pages)를 공부하면서 작성한 자료와 연습 코드를 포함하고 있습니다. 이 저장소의 목표는 학습 과정을 문서화하고, 참고 자료를 제공하며, 이 기술에 관심 있는 다른 사람들에게 학습 가이드를 제공하는 것입니다.
 
 목차
@@ -26,7 +27,7 @@ Servlet
 
 part 4. 예시 [dynamic web]폴더 참고 HelloServlet.jsp
 part 5. 참고 자료
-✔Servlet 문서
+✔Servlet 문서 
 ✔JavaServer Pages (JSP) 문서
 ✔Apache Tomcat 문서
 ✔Head First Servlets and JSP
