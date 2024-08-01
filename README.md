@@ -28,7 +28,7 @@ Servlet
 ## part 4. 예시 [dynamic web]폴더 참고 HelloServlet.jsp
 
 ## part 5. 참고 자료
-✔Servlet 문서 '''
-✔JavaServer Pages (JSP) 문서 '''
-✔Apache Tomcat 문서 '''
-✔Head First Servlets and JSP '''
+✔Servlet 문서 
+✔JavaServer Pages (JSP) 문서 
+✔Apache Tomcat 문서 
+✔Head First Servlets and JSP 
